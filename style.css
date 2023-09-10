@@ -1,0 +1,179 @@
+body{
+    background-color: darkgrey;
+}
+
+.abc{
+    
+    text-decoration: none;
+    margin-left:30px ;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color:saddlebrown;
+    margin-top: 10px;
+    color: brown;
+    background-color: rgb(136, 126, 126);
+  
+}
+.p{
+    margin-bottom: 30px;
+    color: rgb(90, 107, 52);
+    border-style: solid;
+    background-color: antiquewhite;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+a:hover{
+    background-color: aqua;
+}
+.add{text-decoration: none;}
+
+.img{
+    border-style: solid;
+    border-radius: 12px; 
+}
+.m{
+    margin-left: 10px;
+}
+
+h4{
+    text-align: center;
+    color: brown;
+}
+
+
+.sub{
+   text-align: center;
+}
+
+
+
+
+@media only screen and (min-width:786px){
+
+}
+
+.media{
+    /* float: left;
+    width: 28%;
+    text-align: center; */
+  /* border-style: solid; */
+    /* box-sizing: border-box;
+    box-shadow: 10px;
+    height: 300px; */
+
+    float: left;
+    margin-top: 10px;
+    padding-right: 4px;
+    box-shadow: 3px 3px 3px 3px rgb(185, 185, 76);
+    /* box-sizing: border-box; */
+    margin-right: 30px;
+    /* padding-top: 6px; */
+    height: 80px;
+    width: 450px;
+    text-align: center;
+    font-weight: bold;
+   
+  
+}
+
+h1{
+    padding: 6px;
+    margin-left: 3px;
+    padding-right: 2px;
+    margin-right: 10px;
+
+}
+
+p{
+    color: brown;
+}
+
+.insta{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(149, 118, 78);
+
+}
+
+
+
+
+.pdp{
+    margin-right: 5px;
+    padding-right: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+/* about us */
+
+.about{
+    text-decoration: none;
+    color:rgb(32, 32, 91);
+   
+
+
+}
+
+#two{
+
+    display: inline-block;
+    color: black;
+  height: 100px;
+  width: 500px;
+    /* border-style: double; */
+   text-align: justify;
+   padding-left: 170px;
+   padding-top: 2px;
+   text-transform: capitalize;
+ 
+}
+
+i{
+    text-align: justify;
+   padding-left: 170px;
+   padding-top: 2px;
+   color: chocolate;
+   text-transform: capitalize;
+}
+
+
+
+/* login */
+
+
+.log{
+    color: darkolivegreen;
+}
+
+.lbody{
+    background-color: rgba(80, 58, 13, 0.142);
+}
+
+/* add to card */
+
+.add1{
+  
+    color: coral;
+   text-align: center;
+   margin-right: 20px;
+   text-transform: capitalize;
+   position: static;
+  
+  
+  
+   
+    
+
+}
+
+.imgadd{
+    box-shadow: 3px 3px 3px 3px rgb(145, 74, 74);
+    padding: 4px;
+}
